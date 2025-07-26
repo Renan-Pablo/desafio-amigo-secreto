@@ -13,14 +13,12 @@ function adicionarAmigo() {
     amigos.push(nome);
     input.value = "";
 
-
-
     atualizarListaAmigos();
 }
 
 function atualizarListaAmigos() {
     const lista = document.getElementById('listaAmigos');
-    lista.innerHTML = ""; // Limpa a lista
+    lista.innerHTML = "";
 
     for (let i = 0; i < amigos.length; i++) {
         const li = document.createElement('li');
