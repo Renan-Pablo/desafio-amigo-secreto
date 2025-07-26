@@ -22,7 +22,7 @@ Este projeto é uma aplicação simples de sorteio de amigo secreto feita com HT
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/Renan-Pablo/amigo-secreto.git
    ```
 2. Abra a pasta do projeto e execute o arquivo `index.html` em seu navegador.
 
